@@ -1,4 +1,4 @@
-#############
+
 Marya-Arabic-Hairdresser-App
 Arabic Hairdresser App UI (UAE)
 
